@@ -15,3 +15,14 @@ Exporting reports to MS Excel.
 Автоматический и ручной расчет стоимости;
 Экспорт отчетов в MS Excel.
 
+![Authorization](https://github.com/LaHesis/delphi-shell-777/raw/master/Application screenshots/authorization.png)
+Authorization
+
+![Employees window](https://github.com/LaHesis/delphi-shell-777/raw/master/Application screenshots/employees.png)
+Employees window
+
+![Main working windows with services](https://github.com/LaHesis/delphi-shell-777/raw/master/Application screenshots/mainWindow.png)
+Main working windows with services
+
+![Services report](https://github.com/LaHesis/delphi-shell-777/raw/master/Application screenshots/report.png)
+Services report

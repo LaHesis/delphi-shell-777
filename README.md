@@ -1,5 +1,6 @@
 # delphi-shell-777
 ![Authorization](https://github.com/LaHesis/delphi-shell-777/raw/master/logo.jpg)
+
 It's a shell for MS Access database written on Delphi with authorization and price rates for accounting internet shop activity.
 You can login with password "12345" for "Раскольников" user.
 Also there are opportunities:

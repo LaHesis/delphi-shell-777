@@ -1,4 +1,4 @@
-# delphi-shell-777
+﻿# delphi-shell-777
 ![Authorization](https://github.com/LaHesis/delphi-shell-777/raw/master/logo.jpg)
 
 It's a shell for MS Access database written on Delphi with authorization and price rates for accounting internet shop activity.
@@ -25,14 +25,14 @@ Exporting reports to MS Excel.
 
 Экспорт отчетов в MS Excel.
 
-![Authorization](https://github.com/LaHesis/delphi-shell-777/raw/master/Application screenshots/authorization.png)
+![Authorization](https://github.com/LaHesis/delphi-shell-777/raw/master/Application_screenshots/authorization.png)
 Authorization
 
-![Employees window](https://github.com/LaHesis/delphi-shell-777/raw/master/Application screenshots/employees.png)
+![Employees window](https://github.com/LaHesis/delphi-shell-777/raw/master/Application_screenshots/employees.png)
 Employees window
 
-![Main working windows with services](https://github.com/LaHesis/delphi-shell-777/raw/master/Application screenshots/mainWindow.png)
+![Main working windows with services](https://github.com/LaHesis/delphi-shell-777/raw/master/Application_screenshots/mainWindow.png)
 Main working windows with services
 
-![Services report](https://github.com/LaHesis/delphi-shell-777/raw/master/Application screenshots/report.png)
+![Services report](https://github.com/LaHesis/delphi-shell-777/raw/master/Application_screenshots/report.png)
 Services report
